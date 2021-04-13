@@ -79,7 +79,7 @@ header {
 }
 
 .hero {
-  background: url('/img/art1.svg');
+  background: url('/art1.svg');
   background-size: 50% 100%;
   background-position: right;
   background-repeat: no-repeat;
